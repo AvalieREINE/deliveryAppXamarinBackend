@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'DeliveriesAppXamarin'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_19f740b8052b4bf8ba53859d4d106eb0 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_bfa622401d264561bec80f4504cc174a }}
         package: .
